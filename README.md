@@ -13,7 +13,7 @@
 <div size='20px'> Hi this is Hari . Welcome to my   Profile
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/HariKumarN14/My-Codes/main/illustration-hands-puzzle.webp" />
 
 - 🔭 I’m currently working on  **Data Science Projects**
 
