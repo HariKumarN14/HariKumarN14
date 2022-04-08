@@ -7,8 +7,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Madhubala03)
-[![Github](https://img.shields.io/github/followers/Madhubala03?label=Follow&style=social)](https://github.com/Madhubala03)
+
 
 <div size='20px'> Hi this is Hari . Welcome to my   Profile
 <h2> About Me </h2>
