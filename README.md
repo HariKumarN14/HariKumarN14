@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://github.com/kaminikotekar.png">
+<img width="200" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
 </p>
 
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -10,14 +10,13 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Madhubala03)
 [![Github](https://img.shields.io/github/followers/Madhubala03?label=Follow&style=social)](https://github.com/Madhubala03)
 
-<div size='20px'> This is Madhubala . Thank You for taking the time to view my GitHub Profile
+<div size='20px'> Hi this is Hari . Welcome to my   Profile
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on  **Data Science Projects**
 
-- 🌱 learning **Tensorflow**
 
 - 👯 I’m looking to collaborate on Data Science Projects
 
@@ -27,7 +26,7 @@
 
 - 🧡 I believe in **Open Source**
 
-- 📫 How to reach me madhu.masy@gmail.com
+- 📫 you can reach me at harikumarn14@gmail.com
 
 
 
@@ -116,6 +115,5 @@
 | --- | --- |
 <br>
 <!---
-Madhubala03/Madhubala03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
