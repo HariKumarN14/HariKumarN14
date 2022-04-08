@@ -108,11 +108,4 @@
 <br>
   <br>
 
-[![Madhubalas GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Madhubala03&theme=tokyonight)](https://git.io/Madhubala03)
 
-| ![Madhubala's github stats](https://github-readme-stats.vercel.app/api?username=Madhubala03&show_icons=true&theme=tokyonight) | ![Madhubala's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhubala03&theme=tokyonight) |
-| --- | --- |
-<br>
-<!---
-
---->
